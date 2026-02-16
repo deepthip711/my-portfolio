@@ -1,5 +1,7 @@
 # My Portfolio 🌐
 
+This repository contains my personal portfolio website created using HTML and CSS.  
+It showcases my profile, technical skills, projects, certifications and career goals.
 This is my personal portfolio website created as part of my VTU Full Stack Web Development Internship.
 
 ## 🚀 Features
