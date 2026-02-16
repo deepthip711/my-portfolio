@@ -9,7 +9,7 @@ This is my personal portfolio website created as part of my VTU Full Stack Web D
 - Deployed using GitHub Pages
 
 ## 🔗 Live Website
-(Will be added after enabling GitHub Pages)
+https://deepthip711.github.io/my-portfolio/
 
 ## 👩‍💻 Author
 Deepthi Pradeep
